@@ -84,6 +84,6 @@ switch (escolha) {
     } 
     break;
   default:
-    console.log("Opção inválida. Por favor, escolha uma opção válida.");
+    console.log("Opção inválida. Por favor, escolha uma opção válida!");
     break;
 }
